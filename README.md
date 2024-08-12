@@ -1,1 +1,2 @@
 # Hangman
+Classic Hangman Game
